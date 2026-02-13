@@ -70,12 +70,8 @@ This is a demonstration project, but the aesthetic is yours to extend.
 4. Push to the branch (`git push origin feature/your-idea`)
 5. Open a Pull Request
 
+## 👨‍💻 Author
 
-<p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='60' height='20' viewBox='0 0 60 20'><rect width='60' height='20' fill='%230b0b0b'/><rect x='2' y='2' width='56' height='16' fill='none' stroke='%23d8b45e' stroke-width='1.5'/><text x='12' y='15' font-family='Inter, sans-serif' font-size='12' fill='%23d8b45e' font-weight='bold'>VITRA</text></svg>" alt="VITRA Badge">
-</p>
-
-<p align="center">
-  <b>LIFT HEAVY. CODE LIGHTER.</b><br>
-  <i>Forged in NYC · 2025</i>
-</p>
+**Naman Pandey**
+DevOps & Cloud Enthusiast
+Docker • AWS • Terraform • Kubernetes • CI/CD
